@@ -1,0 +1,12 @@
+{
+  "ethergram": {
+    "name": "Ethergram",
+    "homepage": "https://ethergram.io",
+    "url_scheme": "https://ethergram.io/{category}/@{username}/{permlink}"
+  },
+  "explorer": {
+    "name": "Ether explorer",
+    "homepage": "https://explorer.ethergram.io",
+    "url_scheme": "https://explorer.ethergram.io/@{username}"
+  }
+}

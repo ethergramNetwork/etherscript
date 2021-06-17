@@ -1,0 +1,21 @@
+{
+  "name": "etherscript",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git://github.com/ethergramnetwork/etherscript.git",
+    "type": "git"
+  },
+  "license": "MIT",
+  "description": "An open JSON standard for ether based apps.",
+  "bugs": {
+    "url": "https://github.com/ethergramnetwork/etherscript/issues"
+  },
+  "homepage": "https://github.com/ethergramnetwork/etherscript#readme",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Haider"
+}
